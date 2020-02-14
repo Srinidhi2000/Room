@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/fan_model.unity
+    guid: 6a13167c6af136049821656a4daf7bb6
   m_configObjects: {}
